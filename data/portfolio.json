@@ -1,0 +1,94 @@
+{
+    "name": "Nicolas Leclaire",
+    "headerTaglineOne": "Bonjour👋",
+    "headerTaglineTwo": "Je suis Nicolas Leclaire",
+    "headerTaglineThree": "developpeur web junior",
+    "headerTaglineFour": "basé dans le grand est",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/NicolasLeclaire21"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/nicolas-leclaire-ba2aa3200/"
+      },
+      {
+        "id": "5",
+        "title": "Email",
+        "link": "mailto:nicolas.leclaire@wanadoo.fr"
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "OhMyFood",
+        "description": "Intégrer une maquette en mobilefirst responsive en respectant les contraintes graphiques et d'animations en utilisant HTML et CSS avec SASS, sans JavaScript",
+        "imageSrc": "images/ohmyfood.png",
+        "url": "https://github.com/NicolasLeclaire21/OhMyFood"
+      },
+      {
+        "id": "2",
+        "title": "Kasa",
+        "description": "Développer l'ensemble de l'application et ses composants avec Javascript et React, en suivant des maquettes Figma. Création de composants réutilisables",
+        "imageSrc": "images/kasa.png",
+        "url": "https://github.com/NicolasLeclaire21/kasa"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Developpement web",
+        "description": "Création de site web | Application sur-mesure repondant aux besoins des clients"
+      },
+      {
+        "id": "2",
+        "title": "Projet web",
+        "description": "Landing page, site vitrine, e-commerce, application web & mobile."
+      },
+      {
+        "id": "3",
+        "title": "Multi-plateforme",
+        "description": "Compatible tous supports, tablette & application mobile"
+      },
+      {
+        "id": "4",
+        "title": "Maintenance web",
+        "description": "Gestion d'hébérgement, garanti d'accessibilité, intégration régulière des mises à jour de sécurité"
+      }
+    ],
+    "aboutpara": "Après avoir travaillé de nombreuses années dans le secteur du BTP, j'ai choisi de me reconvertir dans un domaine qui me passionne : le développement et l'integration web. Découvrez ici mes projets réalisés avec OpenClassrooms",
+    "resume": {
+      "tagline": "👋  Je suis developpeur et integrateur web",
+      "description": "J'ai réalisé plus d'une quinzaine de projets de developpement web, dans le cadre d'une formation mais egalement en autodidacte",
+      "experiences": [
+      ],
+      "education": {
+        "universityName": "Formation Openclassrooms",
+        "universityDate": "2023-2024",
+        "universityPara": "Formation diplomante integrateur web d'une durée de 9 mois chez openclassrooms"
+      },
+      "languages": [
+        "Javascript",
+        "HTML5",
+        "CSS"
+      ],
+      "frameworks": [
+        "React",
+        "SASS",
+        "NodeJs",
+        "Redux"
+      ],
+      "others": [
+        "Figma",
+        "Git",
+        "AWS"
+      ]
+    }
+  }
