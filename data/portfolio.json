@@ -30,14 +30,14 @@
         "id": "1",
         "title": "OhMyFood",
         "description": "Intégrer une maquette en mobilefirst responsive en respectant les contraintes graphiques et d'animations en utilisant HTML et CSS avec SASS, sans JavaScript",
-        "imageSrc": "images/ohmyfood.png",
+        "imageSrc": "images/ohmyfood.webp",
         "url": "https://github.com/NicolasLeclaire21/OhMyFood"
       },
       {
         "id": "2",
         "title": "Kasa",
         "description": "Développer l'ensemble de l'application et ses composants avec Javascript et React, en suivant des maquettes Figma. Création de composants réutilisables",
-        "imageSrc": "images/kasa.png",
+        "imageSrc": "images/kasa.webp",
         "url": "https://github.com/NicolasLeclaire21/kasa"
       }
     ],
